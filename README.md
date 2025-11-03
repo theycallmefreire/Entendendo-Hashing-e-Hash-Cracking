@@ -106,8 +106,12 @@ Algoritmos mais antigos, como `MD5` e `SHA1`, já se mostraram vulneráveis a co
 * **RIPEMD:** Uma família de funções de hash desenvolvida na Europa, com saídas de 160 bits (similar ao `SHA-1`).
 * **Whirlpool:** Um algoritmo de código livre desenvolvido, entre outros, por um brasileiro. É adotado por padrões internacionais (ISO/IEC).
 
----
+## Exemplo prático:
+Criei esse script que serve como um exemplo prático.
+Ele transforma um arquivo em hash e verifica se esse arquivo foi conectado
+- repo: https://github.com/theycallmefreire/File-Integrity-Monitor-Simple
 
-### Fontes:
+
+## Fontes:
 - https://www.youtube.com/watch?v=4_s9lOuUpZ4&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0
 - https://voitto.com.br/blog/artigo/o-que-e-hash-e-como-funciona
